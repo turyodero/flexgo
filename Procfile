@@ -1,1 +1,1 @@
-web: gunicon flixgo.wsgi
+web: gunicon Flixgo.wsgi
